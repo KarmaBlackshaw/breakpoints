@@ -24,8 +24,8 @@ const breakpoint = useBreakpoint()
 ```scss
 @import 'path-to-breakpoint';
 
-@include breakpoint_sm { ... };
-@include breakpoint_md { ... };
-@include breakpoint_lg { ... };
-@include breakpoint_xl { ... };
+@include breakpoint_sm { ... }
+@include breakpoint_md { ... }
+@include breakpoint_lg { ... }
+@include breakpoint_xl { ... }
 ```
