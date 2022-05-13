@@ -1,6 +1,7 @@
 # Breakpoint
 Mobile first breakpoint helpers
 
+[![GitHub Karmablackshaw](https://badges.pufler.dev/visits/karmablackshaw/breakpoints)](https://github.com/karmablackshaw) 
 [![GitHub Karmablackshaw](https://img.shields.io/github/last-commit/karmablackshaw/breakpoints?label=Last+Commit)](https://github.com/karmablackshaw) 
 [![GitHub Karmablackshaw](https://img.shields.io/github/commit-activity/m/karmablackshaw/breakpoints?color=orange&label=Average+Commits)](https://github.com/karmablackshaw) 
 [![GitHub Karmablackshaw](https://img.shields.io/github/last-commit/karmablackshaw/breakpoints?label=Last+Commit)](https://github.com/karmablackshaw) 
